@@ -1,16 +1,17 @@
-## Hi there 👋
+## hello ! I'm Skie !
 
-<!--
-**skielynn/skielynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+welcome to my github ! I am a full stack developer passionate about building
+interactive web applications. 
 
-Here are some ideas to get you started:
+🛠 SKILLS :
+Python | Flask | React | JavaScript | Node.js
+PostgreSQL | MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 PROJECTS :
+🔭 I’m currently working on WhiskerWall - fullstack pet showcase app
+CruiseConcept - fullstack 3D visualization of a unique cruise ship design
+
+ 🌱 I’m currently learning areas outside my comfort zone to strenghten my skillset
+
+ 📫 CONTACT : 
+ skielynn.1105945@gmail.com
