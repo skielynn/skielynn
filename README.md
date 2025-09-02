@@ -1,4 +1,4 @@
-## hello ! I'm Skie !
+## hello ! I'm skie !
 
 welcome to my github ! I am a full stack developer passionate about building
 interactive web applications. 
