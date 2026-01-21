@@ -10,7 +10,7 @@ PostgreSQL | MongoDB
 📂 PROJECTS :
 I’m currently working on WhiskerWall - fullstack pet showcase app
 CruiseConcept - fullstack 3D visualization of a unique cruise ship design
-Pomleon Partners business site !
+and lastly Pomleon Partners business site !
 
  🌱 I’m currently learning areas outside my comfort zone to strenghten my skillset
 
