@@ -4,7 +4,7 @@ welcome to my github ! I am a full stack developer passionate about building
 interactive web applications. 
 
 🛠 SKILLS :
-Python | Flask | React | JavaScript | Node.js
+Python Flask | React | JavaScript | Node.js
 PostgreSQL | MongoDB
 
 📂 PROJECTS :
